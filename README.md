@@ -14,19 +14,19 @@ The Random Fact Flutter app is a simple yet engaging application that fetches an
 
 ## Important Notes
 
-Do not remove the app from the recently opened apps list in your operating system. The widget's periodic updates rely on the app remaining active in the background.
+```Do not remove the app from the recently opened apps list in your operating system. The widget's periodic updates rely on the app remaining active in the background.```
 
 ## Dependencies
 
-home_widget: ^0.7.0: For creating and managing home screen widgets.
+`home_widget`: ^0.7.0: For creating and managing home screen widgets.
 
-http: ^1.3.0: To make network requests and fetch random facts.
+`http`: ^1.3.0: To make network requests and fetch random facts.
 
-dynamic_color: ^1.7.0: To support dynamic theming based on system colors.
+`dynamic_color`: ^1.7.0: To support dynamic theming based on system colors.
 
-flutter_screenutil: ^5.9.3: For responsive UI design across devices.
+`flutter_screenutil`: ^5.9.3: For responsive UI design across devices.
 
-shared_preferences: ^2.3.5: To store the latest fact locally for widget updates.
+`shared_preferences`: ^2.3.5: To store the latest fact locally for widget updates.
 
 ## API Reference
 
